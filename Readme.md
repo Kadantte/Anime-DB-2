@@ -21,9 +21,9 @@ Aplicação web que consome a [Jikan API](https://jikan.moe/) para exibir dados 
 
 ## 📷 Prints da aplicação
 
-![Home](https://i.imgur.com/yXzQ3nd)
-![Top Animes](https://i.imgur.com/BdyIXlV)
-![Search](https://i.imgur.com/k0gBSPt)
+![Home](https://i.imgur.com/yXzQ3nd.png)
+![Top Animes](https://i.imgur.com/BdyIXlV.png)
+![Search](https://i.imgur.com/k0gBSPt.png)
 
 ## ▶️ Como rodar localmente
 
